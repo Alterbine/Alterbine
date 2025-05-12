@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1744250868 source:z:\workspaces\heep\heap\appendmin.c
+	"header.h"
+
+1744250861 z:\workspaces\heep\heap\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1744250884 source:z:\workspaces\heep\heap\createnewnode.c
+	"header.h"
+
+1744246917 source:z:\workspaces\heep\heap\deletemin.c
+	"header.h"
+
+1744074482 source:z:\workspaces\heep\heap\queueing.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1744250928 source:z:\workspaces\heep\heap\utils.c
+	"header.h"
+
+1744251278 source:z:\workspaces\heep\heap\main.c
+	"header.h"
+
+1744250870 source:c:\users\adrian\downloads\cpelab 2\a heaping pile of something\heap v2\appendmin.c
+	"header.h"
+
+1744647769 c:\users\adrian\downloads\cpelab 2\a heaping pile of something\heap v2\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1744250886 source:c:\users\adrian\downloads\cpelab 2\a heaping pile of something\heap v2\createnewnode.c
+	"header.h"
+
+1744246918 source:c:\users\adrian\downloads\cpelab 2\a heaping pile of something\heap v2\deletemin.c
+	"header.h"
+
+1744074484 source:c:\users\adrian\downloads\cpelab 2\a heaping pile of something\heap v2\queueing.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1744645922 source:c:\users\adrian\downloads\cpelab 2\a heaping pile of something\heap v2\utils.c
+	"header.h"
+
+1744648225 source:c:\users\adrian\downloads\cpelab 2\a heaping pile of something\heap v2\append.c
+	"header.h"
+
+1744647507 source:c:\users\adrian\downloads\cpelab 2\a heaping pile of something\heap v2\delete.c
+	"header.h"
+
+1744649399 source:c:\users\adrian\downloads\cpelab 2\a heaping pile of something\heap v2\heapify.c
+	"header.h"
+
+1744647821 source:c:\users\adrian\downloads\cpelab 2\a heaping pile of something\heap v2\createheap.c
+	"header.h"
+
+1744649337 source:c:\users\adrian\downloads\cpelab 2\a heaping pile of something\heap v2\main.c
+	"header.h"
+
+1745248405 source:c:\users\adrian\downloads\cpelab 2\a heaping pile of something\heap v3\createheap.c
+	"header.h"
+
+1745247256 c:\users\adrian\downloads\cpelab 2\a heaping pile of something\heap v3\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1744651286 source:c:\users\adrian\downloads\cpelab 2\a heaping pile of something\heap v3\append.c
+	"header.h"
+
+1744651286 source:c:\users\adrian\downloads\cpelab 2\a heaping pile of something\heap v3\delete.c
+	"header.h"
+
+1744651651 source:c:\users\adrian\downloads\cpelab 2\a heaping pile of something\heap v3\heapify.c
+	"header.h"
+
+1744650719 source:c:\users\adrian\downloads\cpelab 2\a heaping pile of something\heap v3\utils.c
+	"header.h"
+
+1745247354 source:c:\users\adrian\downloads\cpelab 2\a heaping pile of something\heap v3\main.c
+	"header.h"
+
+1745248370 source:c:\users\adrian\downloads\cpelab 2\a heaping pile of something\heap v3\displaytree.c
+	"header.h"
+
